@@ -2,7 +2,7 @@
 layout: default
 img: ipad.png
 category: Services
-title: Death to the Stock Photo:<br>Special Thanks
+title: 실질적인 문제 해결
 description: |
 ---
-  A special thanks to [Death to the Stock Photo](http://join.deathtothestockphoto.com/) for providing the photographs that you see in this template.  Visit their website to become a member!
+  고객의 실질적인 문제를 해결하는 웹서비스와 어플리케이션을 제공합니다. 단순한 기술이 아닌, 고객이 필요로 하는 정확한 솔루션을 제시합니다. 문제를 깊이 이해하고, 혁신적인 답을 통해 가치를 만듭니다. 

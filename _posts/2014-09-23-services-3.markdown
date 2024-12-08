@@ -2,7 +2,7 @@
 layout: default
 img: phones.png
 category: Services
-title: Google Web Fonts and<br>Font Awesome Icons
+title: 변화와 성장
 description: |
 ---
-This template features the 'Lato' font, part of the [Google Web Font library](http://www.google.com/fonts), as well as [icons from Font Awesome](http://fontawesome.io).
+기술로 세상과 고객의 일상에 긍정적인 변화를 만듭니다. 단순한 제공을 넘어, 서비스를 통해 더 큰 성과와 가치를 창출하는 것이 목표입니다. 혁신과 성장을 함께 이뤄나가는 여정을 제안합니다.
